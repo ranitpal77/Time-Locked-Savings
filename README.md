@@ -35,8 +35,13 @@ This concept encourages disciplined saving and can be used for personal finance 
 
 ---
 
-## 🔗 Deployed Smart Contract Link
+## 🔗 Deployed Smart Contract Screenshot
 ![alt text](image-1.png)
+
+---
+
+## 🔗 Transaction Screenshot
+![alt text](image-2.png)
 
 ---
 
@@ -48,6 +53,7 @@ This concept encourages disciplined saving and can be used for personal finance 
 ---
 ## Contract ID
 CCB63F22IVHLPLUPEZQ2NAS3JAMJKACCVYUFDVFMHEDXDM72223YFUBM
+
 ---
 ## Contract Address
 CDISWIGZSPUMARCPAOEPMZYB53HR3BFZ2EIHA4GXIOID6YSCPAU53TCP
