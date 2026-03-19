@@ -25,6 +25,8 @@ This concept encourages disciplined saving and can be used for personal finance 
 - 🧩 Simple and extensible design for future upgrades
 
 ---
+https://lab.stellar.org/r/testnet/contract/CCB63F22IVHLPLUPEZQ2NAS3JAMJKACCVYUFDVFMHEDXDM72223YFUBM
+
 
 ## 🚀 Future Enhancements
 - Add token transfers (actual XLM or custom token integration)
@@ -36,7 +38,7 @@ This concept encourages disciplined saving and can be used for personal finance 
 ---
 
 ## 🔗 Deployed Smart Contract Link
-XXX
+![alt text](image-1.png)
 
 ---
 
