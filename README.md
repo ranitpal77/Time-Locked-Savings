@@ -49,7 +49,6 @@ This concept encourages disciplined saving and can be used for personal finance 
 
 ## 🧑‍💻 How to Run (Basic)
 1. Install Soroban CLI
-
 ---
 ## Contract ID
 CCB63F22IVHLPLUPEZQ2NAS3JAMJKACCVYUFDVFMHEDXDM72223YFUBM
