@@ -56,8 +56,4 @@ CCB63F22IVHLPLUPEZQ2NAS3JAMJKACCVYUFDVFMHEDXDM72223YFUBM
 
 ---
 ## 🌐 Deployed Smart Contract Link
-https://lab.stellar.org/r/testnet/contract/CCB63F22IVHLPLUPEZQ2NAS3JAMJKACCVYUFDVFMHEDXDM72223YFUBM
-
-2. Build contract:
-   ```bash
-   cargo build --target wasm32-unknown-unknown --release
+🔗 https://lab.stellar.org/r/testnet/contract/CCB63F22IVHLPLUPEZQ2NAS3JAMJKACCVYUFDVFMHEDXDM72223YFUBM
